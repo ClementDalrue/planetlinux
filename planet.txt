@@ -1,0 +1,201 @@
+dalrue@dalrue-clement:~/quests/shell/planets$ find
+.
+./real
+./real/terrestrial
+./real/terrestrial/mercury.jpeg
+./real/terrestrial/mars.jpeg
+./real/terrestrial/venus.jpeg
+./real/terrestrial/earth.jpeg
+./real/gas-giant
+./real/gas-giant/saturn.jpeg
+./real/gas-giant/jupiter.jpeg
+./real/gas-giant/uranus.jpeg
+./real/gas-giant/neptune.jpeg
+./inhabited
+./inhabited/cybertron.jpeg
+./inhabited/arrakis.jpeg
+./inhabited/coruscant.jpeg
+./inhabited/earth.jpeg
+./fictional
+./fictional/cybertron.jpeg
+./fictional/arrakis.jpeg
+./fictional/coruscant.jpeg
+dalrue@dalrue-clement:~/quests/shell/planets$ history
+    1  pwd
+    2  ls
+    3  cd
+    4  cd Images
+    5  cd ..
+    6  pwd
+    7  ls snap
+    8  pdw
+    9  pwd
+   10  cd /opt
+   11  pwd
+   12  Musique
+   13  ls
+   14  /home/dalrue/Images
+   15  ~
+   16  cd ;;
+   17  cd..
+   18  cd ..
+   19  pwd
+   20  cd ..
+   21  cd ../home/dalrue
+   22  pwd
+   23  ls -l/bin
+   24  ls -l /bin
+   25  ls /home
+   26  cd Images
+   27  cd ..
+   28  cd ~/Music
+   29  sudo apt install libgconf-2-4
+   30  sudo apt install git
+   31  sudo apt install libgconf-2-4
+   32  sudo apt install git
+   33  # yum install libXScrnSaver
+   34  sudo apt-get install yum
+   35  # yum install libXScrnSaver
+   36  sudo apt install git
+   37  # yum install libXScrnSaver
+   38  sudo yum install wget -y
+   39  git --version
+   40  apt-get install libgconf-2-4
+   41  sudo apt-get install libgconf-2-4
+   42  git config --global user.name Dalrue
+   43  git --version
+   44  git config --global user.name Dalrue
+   45  cd
+   46  pwd
+   47  mkdir quests
+   48  mkdir -p quests/shell/vegetables quests/shell/fruits
+   49  mkdir quests/shell/remove-me quests/shell/delete-me
+   50  ls quests/shell
+   51  -p quests/shell/vegetables quests/shell/fruits
+   52  mkdir -p quests/shell/vegetables quests/shell/fruits
+   53  mkdir quests/shell/remove-me quests/shell/delete-me
+   54  ls quests/shell
+   55  rmdir quests/shell/remove-me quests/shell/delete-me
+   56  cd ~/quests/shell
+   57  touch apple
+   58  touch apricot
+   59  touch carrot parsnip cauliflower courgette
+   60  ls
+   61  ls -l ~/.bashrc
+   62  touch ~/.bashrc
+   63  ls -l ~/.bashrc
+   64  git config --global user.name 
+   65  ClementDalrue
+   66  git config --global user.name ClementDadlrue
+   67  git --version
+   68  git config --global user.name ClementDalrue
+   69  git config --global user.email clement.dalrue@gmail.com
+   70  mkdir hello-world
+   71  cd hello-world
+   72  git init
+   73  git status
+   74  git add readme.txt
+   75  git commit -m "Création du fichier readme"
+   76  ls
+   77  cd
+   78  nm-applet
+   79  if config
+   80  ifconfig
+   81  hostname -Isudo apt install net-yools
+   82  hostname -Isudo apt install net-tools
+   83  ifconfig
+   84  sudo apt install net-tools
+   85  ifconfig
+   86  sudo apt install net-tools
+   87  mkdir quests
+   88  mkdir -p quests/shell/vegetables quests/shell/fruits
+   89  mkdir quests/shell/remove-me quests/shell/delete-me
+   90  ls quests/shell
+   91  rmdir quests/shell/remove-me quests/shell/delete-me
+   92  cd ~/quests/shell
+   93  touch apple
+   94  touch apricot
+   95  touch carrot parsnip cauliflower courgette
+   96  ls
+   97  ls -l ~/.bashrc
+   98  touch ~/.bashrc
+   99  ls -l ~/.bashrc
+  100  cp apple banana
+  101  cp apple fruits/orange
+  102  ls ; ls fruits
+  103  cp ap* banana fruits/
+  104  ls fruits
+  105  cp -R fruits copy-of-fruits
+  106  cp -R fruits copy-of-fruits /tmp/
+  107  rm ap* banana
+  108  rm -r copy-of-fruits
+  109  cd
+  110  sudo apt-get install -y curl unzip
+  111  apt-get update
+  112  --fix-missing
+  113  cd ..
+  114  ls
+  115  cd dalrue/
+  116  ls
+  117  cd hello-world/
+  118  cd
+  119  curl -help
+  120  cd quest/shell
+  121  cd quests/shell
+  122  curl -L -o planets.zip "https://github.com/WildCodeSchool/quests-resources/blob/master/terminal/planets.zip?raw=true"
+  123  sudo apt-get install -y curl unzip
+  124  brew install curl unzip
+  125  curl -L -o planets.zip "https://github.com/WildCodeSchool/quests-resources/blob/master/terminal/planets.zip?raw=true"
+  126  unzip planets.zip
+  127  mkdir -p quests/shell/real
+  128  ls
+  129  mkdir -p quests/shell/vegetables quests/shell/real
+  130  mkdir - quests/shell/planets/real
+  131  mkdir -p quests/shell/real
+  132  mkdir -p real
+  133  mkdir -p planets/real
+  134  mkdir -p planets/fictional
+  135  mkdir -p planets/inhabited
+  136  cd planets
+  137  mkdir -p real/terrestrial
+  138  mkdir -p real/gas-giant
+  139  mkdir -p real/dwarf-planets
+  140  cd
+  141  cd quest/shell/planets
+  142  cd quests/shell/planets
+  143  mv ca*
+  144  mv --help
+  145  mv ca* parsnip earth.jpeg real/terrestrial
+  146  mv earth.jpeg real/terrestrial
+  147  mv earth.jpeg
+  148  mv real/terrestrial earth.jpeg
+  149  mkdir -p real/terrestrial
+  150  rm -r earth.jpg
+  151  rm -r earth.jpeg
+  152  cd..
+  153  cd ..
+  154  unzip planets.zip
+  155  cd planets
+  156  mv ca* earth.jpeg real/terrestrial
+  157  mv earth.jpeg real/terrestrial
+  158  mv earth.jpeg real/
+  159  mv mars.jpeg real/terrestrial
+  160  mv jupiter.jpeg/gas-giant
+  161  mv jupiter.jpeg real/gas-giant
+  162  mv mercury.jpeg real/terrestrial
+  163  mv neptune.jpeg real/gas-giant
+  164  mv saturn.jpeg real/gas-giant
+  165  mv uranus.jpeg real/gas-giant
+  166  mv venus.jpeg real/terrestrial
+  167  mv pluto.jpeg real/dwarf-planets
+  168  mv arrakis.jpeg fictional
+  169  mv coruscant.jpeg fictional
+  170  mv cybertron.jpeg  fictional
+  171  cp real/terrestrial/earth.jpeg inhabited
+  172  fictional/coruscant.jpeg inhabited
+  173  cp fictional/coruscant.jpeg inhabited
+  174  cp fictional/arrakis.jpeg inhabited
+  175  cp fictional/cybertron.jpeg inhabited
+  176  rm -r real/dwarf-planets
+  177  find
+  178  history
